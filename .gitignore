@@ -1,0 +1,9 @@
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+# Modèle entraîné (≈ 15 Mo) : recréé automatiquement par python src/main.py
+modeles/modele.joblib
+# Historique créé par l'application
+donnees/historique_predictions.csv

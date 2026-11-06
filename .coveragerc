@@ -1,0 +1,5 @@
+[run]
+source = src
+omit =
+    src/interface.py
+    src/main.py
